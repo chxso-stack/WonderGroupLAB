@@ -2,4 +2,4 @@
 BSIT Group Project Repository
 
 
-Student Information System
+School Management System
